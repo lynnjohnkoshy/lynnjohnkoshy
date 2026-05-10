@@ -18,8 +18,7 @@
 ### ✨ About Me
 - 🎓 Computer Science student at **Toronto Metropolitan University**
 - 📊 Interested in **Data Analytics, AI Governance, and Full-Stack Development**
-- 🎥 Passionate about **film, videography, science outreach, and storytelling through tech**
-- 🌱 Always building, learning, and exploring projects with an interest in entrepreneurship
+- 🎥 Passionate about **film, videography, science outreach, entrepreneurship, and storytelling through tech**
 - 🏢 Previous co-ops at **Toronto Police Service** and **Ontario Lottery and Gaming Corporation**
 
 ---
